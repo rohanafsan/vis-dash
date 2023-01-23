@@ -1,3 +1,4 @@
+require("dotenv").config();
 import React, { useState } from 'react';
 import '../App.css';
 import BarChart from '../charts/BarChart';
